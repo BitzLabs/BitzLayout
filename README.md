@@ -1,0 +1,2 @@
+# BitzLayout
+レイアウトエンジンの出力を表現するLayoutASTの型定義を提供します。
